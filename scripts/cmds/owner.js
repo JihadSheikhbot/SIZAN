@@ -22,7 +22,7 @@ module.exports = {
 				religion: '𝗜𝘀𝗹𝗮𝗺',
 				hobby: '𝗠𝗲𝘆𝗲 𝗣𝗼𝘁𝗮𝗻𝗼𝗼',
 				Fb: 'https://www.facebook.com/MUHAMMAD.J1HAD',
-				Relationship: '𝗦𝗶𝗻𝗴𝗹𝗲𝗲𝗲𝗲𝗵',
+				Relationship: '𝗦𝗶𝗻𝗴𝗹𝗲𝗲𝗲𝗵',
 				Height: '𝟓"𝟖''
 			};
 
