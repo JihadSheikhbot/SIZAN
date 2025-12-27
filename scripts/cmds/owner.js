@@ -16,17 +16,17 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝑬𝒘𝑹 𝑺𝒉𝑨𝒏',
-				gender: '𝑴𝒂𝑳𝒆',
-				Birthday: '10-𝟎𝟕-𝟐𝟎𝟎5',
-				religion: '𝙄𝒔𝒍𝑨𝒎',
-				hobby: '𝑺𝒍𝒆𝒆𝑷𝒊𝒏𝑮',
-				Fb: 'https://www.facebook.com/Sh4n.Dev1',
-				Relationship: '𝑺𝒊𝒏𝑮𝒆𝒍',
-				Height: '5"3'
+				name: '𝗝𝗶𝗵𝗮𝗱 𝗦𝗵𝗲𝗶𝗸𝗵',
+				gender: '𝗠𝗮𝗹𝗲',
+				Birthday: '𝟬𝟮-𝟬𝟰-𝟮𝟬𝟬𝟱',
+				religion: '𝗜𝘀𝗹𝗮𝗺',
+				hobby: '𝗠𝗲𝘆𝗲 𝗣𝗼𝘁𝗮𝗻𝗼𝗼',
+				Fb: 'https://www.facebook.com/MUHAMMAD.J1HAD',
+				Relationship: '𝗦𝗶𝗻𝗴𝗹𝗲𝗲𝗲𝗲𝗵',
+				Height: '𝟓"𝟖''
 			};
 
-			const bold = 'https://drive.google.com/uc?export=download&id=1J4yQ13L2WTpdOuqcP0yEmzULACdwfvnQ';
+			const bold = 'https://i.imgur.com/0RuZ9LK.jpeg';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
