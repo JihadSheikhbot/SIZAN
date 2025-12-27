@@ -12,9 +12,9 @@ const cError = (api, threadID, messageID) =>
 
 module.exports.config = {
   name: "bby",
-  aliases: ["baby","bbu", "shan"],
+  aliases: ["baby","bbu", "Jihad"],
   version: "1.6.9",
-  author: "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  author: "♡︎ 𝐉𝐈𝐇𝐀𝐃 ♡︎",
   role: 0,
   description: {
     en: "Talk with the bot or teach it new responses"
@@ -183,7 +183,7 @@ module.exports.onStart = async ({ api, event, args, usersData }) => {
 module.exports.onChat = async ({ api, event }) => {
   const { threadID, messageID, body, senderID } = event;
 
-  const cMessages = ["🎀 Hello bby!", "🎀 Hi there!", "🎀 Hey! How can I help?😝"];
+  const cMessages = ["🎀 Hello bby!", "🎀 𝐇𝐮𝐦𝐦 𝐉𝐚𝐧 𝐁𝐨𝐥𝐨!", "🎀 Hey! How can I help?😝"];
 
   const userInput = body.toLowerCase().trim();
   const keywords = ["bby", "hii", "baby", "bot", "বট", "robot"];
